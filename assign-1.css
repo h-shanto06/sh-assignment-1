@@ -1,0 +1,115 @@
+/*banner background*/
+.banner{
+    background-image: url(B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-size: cover;
+    background-position:top ;
+    width: 100%;
+    height: 595px;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items: center;
+    margin: 0px 150px;
+    
+    
+}
+
+
+.open-sans-logo {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+   
+}
+.open-sans-logo{
+    color: #4E47FF;
+    width: 99px;
+    height: 51px;
+    font-size: 34px;
+    
+}
+.nav-button{
+    background-color:#4E47FF ;
+   
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 16px;
+    border: #FFFFFF;
+    border-radius: 8px;
+    padding: 20px 40px;
+}
+
+.open-sans-hero-sec {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <bold>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.hero-sec{
+    text-align: center;
+    gap: 37px;
+    margin-top: 90px;
+    color: #252432;
+}
+button{
+    margin-top: 37px;
+}
+    
+.open-sans-hero-sec{
+    font-size: 60px;
+}
+.hero-sec{
+    text-align: center;
+    
+}
+.action-1{
+    
+   
+    margin: 200px 250px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+/*div section{
+    text-align: left;
+}
+.mini-img{
+    text-align: right;
+}*/
+img{
+    width: 350px;
+    height: 250px;
+    border-radius: 45px;
+}
+section h2.open-sans-hero-sec{
+    font-size: 50px;
+    color: #252432;
+}
+section p.open-sans-hero-sec{
+    font-size: 20px;
+    font-style: normal;
+    color: #252432;
+}
+.third-bttn{
+    background-color: #4E47FF;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 20px 40px;
+    border: #FFFFFF;
+
+}
+
+
+
+    
+    
+
